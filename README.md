@@ -1,5 +1,6 @@
 
-# PRACTICA 2
+# PRACTICA 2 
+## Usuaria: mjmorteruiz@uoc.edu
 
 Es un caso práctico, consistente en el tratamiento de un conjunto de datos (en inglés, dataset), orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas.
 escripcion del dataset
