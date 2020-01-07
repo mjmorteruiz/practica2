@@ -1,5 +1,5 @@
 
-PRACTICA 2
+#PRACTICA 2
 
 Es un caso práctico, consistente en el tratamiento de un conjunto de datos (en inglés, dataset), orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas.
 escripcion del dataset
@@ -28,7 +28,7 @@ Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
 ● Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
 ● Tutorial de Github https://guides.github.com/activities/hello-world.
 
-Bibligrafia
+# Bibligrafia
 
 Materials de l'assignatura 'Tipolog?a i cicle de vida de les dades', UOC
 - Dataset de mostra : https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
